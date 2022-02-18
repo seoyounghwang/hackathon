@@ -1,6 +1,3 @@
 # hackathon
 
 Hello 
-
-
-hyuhhy
