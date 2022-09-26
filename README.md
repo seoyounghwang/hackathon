@@ -24,5 +24,5 @@ This web application is built for self-mental assessment. ⏰ Users answer diffe
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=Brd2TKKk9GM">Demonstartion Video </a>
+  <a href="https://www.youtube.com/watch?v=Brd2TKKk9GM">Demonstration Video </a>
 </div>
